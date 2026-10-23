@@ -1,6 +1,3 @@
-Aqui está a versão atualizada, destacando **especialista em AWS, Kubernetes, Terraform, FinOps e Datadog**:
-
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=720&lines=Olá%2C+eu+sou+o+Ariel+Dalefe+Alves;Specialist+SRE+%2F+Tech+Lead;AWS+%7C+Kubernetes+%7C+Terraform+%7C+FinOps;Datadog+%7C+Observability+%7C+Platform+Engineering" alt="Typing SVG" />
@@ -123,6 +120,3 @@ Também exploro GenAI, RAG, MCP Servers, agentes, Spec-Driven Development e AI-A
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20FinOps%20%7C%20Datadog&fontSize=18&fontColor=ffffff&animation=twinkling" />
 
 </div>
-```
-
-Cole esse conteúdo no `README.md` do repositório `arieldalefe/arieldalefe` e faça o commit.
